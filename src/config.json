@@ -1,0 +1,11 @@
+{
+  "SPOTIFY": {
+    "CLIENT_ID": "",
+    "UNWANTED_STRINGS": [
+      "Acoustic",
+      "Remaster",
+      "Mono Mix",
+      "Feat"
+    ]
+  }
+}
