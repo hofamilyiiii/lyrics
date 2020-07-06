@@ -36,6 +36,12 @@ Update [/config.json](/config.json) to contain your client ID:
 }
 ```
 
+### Running
+
+```
+npm start
+```
+
 ## Authors
 
 - **Ho Xin Jun**
